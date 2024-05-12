@@ -1,0 +1,16 @@
+.weather-icon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+img {
+    margin-right: 25px;
+    height: 100px;
+    width: 100px;
+}
+
+.attribution {
+    position: fixed;
+    bottom: 0;
+}
